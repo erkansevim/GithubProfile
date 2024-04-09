@@ -1,3 +1,21 @@
-body{
-    background-color: rgb(154, 117, 117);
+body {
+  background-color: rgb(183, 167, 167);
+}
+
+.section-left {
+  background-color: bisque;
+  width: 150px;
+  height: 550px;
+  margin: 25px 0px 0px 25px;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+.edication{
+    
 }
