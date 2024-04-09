@@ -6,7 +6,8 @@ body {
   background-color: bisque;
   width: 150px;
   height: 550px;
-  margin: 25px 0px 0px 25px;
+  margin: 20px 0px 0px 10px;
+  
 }
 
 img {
@@ -14,8 +15,26 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 15px;
+  padding-top: 10px;
+  padding-bottom: 1px;
 }
-.edication{
-    
+.education{
+    font-size: 8px;
+    margin: 5px;
+    padding: 1px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.titels{
+    font-size: large;
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+
+
+}
+.contact{
+    font-size: 8px;
+    margin: 5px;
+    padding: 1px;
+    font-family: "Roboto Condensed", sans-serif;
 }
