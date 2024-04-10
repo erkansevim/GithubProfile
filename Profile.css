@@ -4,9 +4,9 @@ body {
 
 .section-left {
   background-color: bisque;
-  width: 150px;
-  height: 550px;
-  margin: 20px 0px 0px 10px;
+  width: 290px;
+  height: 950px;
+  margin: 30px 0px 0px 60px;
   
 }
 
@@ -19,22 +19,27 @@ img {
   padding-bottom: 1px;
 }
 .education{
-    font-size: 8px;
-    margin: 5px;
-    padding: 1px;
+    font-size: 16px;
+    margin: 8px;
+    padding: 4px;
     font-family: "Roboto Condensed", sans-serif;
 }
 
 .titels{
-    font-size: large;
+    font-size: 22px;
     text-align: center;
     font-family: "Josefin Sans", sans-serif;
 
 
 }
 .contact{
-    font-size: 8px;
-    margin: 5px;
-    padding: 1px;
+    font-size: 16px;
+    margin: 8px;
+    padding: 4px;
     font-family: "Roboto Condensed", sans-serif;
+}
+#email{
+  list-style-image: url(/email.png);
+  list-style-image: ;
+  
 }
