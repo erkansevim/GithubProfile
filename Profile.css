@@ -38,14 +38,7 @@ img {
     padding: 4px;
     font-family: "Roboto Condensed", sans-serif;
 }
-#email{
-  list-style-image: url(/icons8-mail-50.png);
- 
-}
-#github{
-  list-style-image: url(/icons8-github-100.png);
-}
-
-#linkedin{
-  list-style-image: url(/icons8-linkedin-96.png);
+a{
+  color: black;
+  font-;
 }
