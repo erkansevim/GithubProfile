@@ -4,9 +4,11 @@ body {
 
 .section-left {
   background-color: bisque;
-  width: 290px;
+  width: 340px;
   height: 950px;
-  margin: 30px 0px 0px 60px;
+  margin: 50px 0px 0px 90px;
+  float: left;
+  display: block;
   
 }
 
@@ -40,5 +42,18 @@ img {
 }
 a{
   color: black;
-  font-;
+  
+}
+
+.section-right{
+  background-color: bisque;
+  width: 840px;
+  height: 950px;
+  margin: 50px 0px 0px 90px;
+  float: left;
+  display: inline-block;
+}
+.tittle-right{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
